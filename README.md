@@ -1,2 +1,2 @@
 # test
-test repository in order to learn
+test repository for learning GitHub
